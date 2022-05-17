@@ -1,2 +1,1 @@
-print('Hello World') 
-print('Всем привет')
+print('Hello World')
